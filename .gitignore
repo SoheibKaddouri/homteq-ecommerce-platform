@@ -1,0 +1,6 @@
+# Ignore scratchpads / testing files
+testpage.php
+
+# Ignore operating system clutter
+.DS_Store
+Thumbs.db
